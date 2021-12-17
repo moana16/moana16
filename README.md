@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 개발자 김지민입니다  👋
 
 <!--
 **moana16/moana16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![github stats](https://github-readme-stats.vercel.app/api?username=shinplest&show_icons=true&hide_border=true)](https://github.com/moana16)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinplest&layout=compact)](https://github.com/moana16)
