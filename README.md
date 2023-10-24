@@ -1,4 +1,4 @@
-### 안녕하세요 개발자 김지민입니다  👋
+### 안녕하세요 천천히 하지만 꾸준히 공부합니다 👋
 
 <!--
 **moana16/moana16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
