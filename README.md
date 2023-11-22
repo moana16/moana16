@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![github stats](https://github-readme-stats.vercel.app/api?username=moana16&show_icons=true&hide_border=true)](https://github.com/moana16)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moana16&layout=compact)](https://github.com/moana16)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=moana16)](https://solved.ac/moana16)
